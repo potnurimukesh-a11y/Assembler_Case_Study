@@ -1,0 +1,16 @@
+@10
+D=A
+@i
+M=D
+@11
+D=A
+@j
+M=D
+@i
+D=M
+@j
+D=D+M
+@k
+M=D
+@14
+D;JMP
